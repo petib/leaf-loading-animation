@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangwei/Documents/working/leaf_loading_anim/CSDNBlog4/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="/Users/wangwei/Documents/working/leaf_loading_anim/CSDNBlog4/build/intermediates/pre-dexed/debug/android-support-v4-b3e0d4c76b24d5b0cadcc397bf9b9532a7f80e40.jar" />
+    </item>
+    <item
+        jar="/Users/wangwei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/wangwei/Documents/working/leaf_loading_anim/CSDNBlog4/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-17dd74bd7d2eb779a5643565a8a950f2608c7987.jar" />
+    </item>
+    <item
+        jar="/Users/wangwei/Documents/working/leaf_loading_anim/CSDNBlog4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/wangwei/Documents/working/leaf_loading_anim/CSDNBlog4/build/intermediates/pre-dexed/debug/classes-b527455d4dcb468f7b0188a5afcf802941098d90.jar" />
+    </item>
+    <item
+        jar="/Users/wangwei/Documents/working/leaf_loading_anim/CSDNBlog4/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/wangwei/Documents/working/leaf_loading_anim/CSDNBlog4/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-14a87a124eda6c6a209f2c159afdee6ba2774f2f.jar" />
+    </item>
+    <item
+        jar="/Users/wangwei/Documents/working/leaf_loading_anim/CSDNBlog4/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/wangwei/Documents/working/leaf_loading_anim/CSDNBlog4/build/intermediates/pre-dexed/debug/classes-3d49fe20eaf26cc26f8ffca167079ecdfe517131.jar" />
+    </item>
+
+</items>
